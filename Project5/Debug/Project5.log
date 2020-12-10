@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(15): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Project5.vcxproj -> C:\Users\acrid\Desktop\schoolwork\COMP 3350\Project5\Project5\Debug\Project5.exe
